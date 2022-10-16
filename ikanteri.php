@@ -1,7 +1,7 @@
 <?php
 
 echo @color("nevy","───────────────────────────────────────────\n");
-echo @color("orange","         SUNTIK PAKET TRI MURAH          \n");
+echo @color("red","           SUNTIK PAKET TRI MURAH           \n");
 echo @color("green","                 DESKJECT                 \n");
 echo @color("yellow","    Jangan Lupa Isi Pulsa Dulu Boss!!    \n");
 echo @color("nevy","───────────────────────────────────────────\n");
