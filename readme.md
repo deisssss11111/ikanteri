@@ -12,6 +12,6 @@ $ git clone https://github.com/GusSamsudin/tri
 $ cd tri
 
 $ php ikanteri.php
-$ php ikantri.php
+
 
 
